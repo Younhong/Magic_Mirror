@@ -96,7 +96,7 @@ var config = {
 			}
 		},
 		{
-			module: "MMM-COVID19"
+			module: "MMM-COVID19",
 			position: "bottom_left",
 			config: {
 				updateInterval: 300000,
