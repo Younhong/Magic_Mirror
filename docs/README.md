@@ -1,4 +1,6 @@
-![MagicMirror²: The open source modular smart mirror platform. ](.github/header.png)
+<p align="center">
+	<img src="https://raw.githubusercontent.com/Younhong/Magic_Mirror/master/.github/header.png">
+</p>
 
 <p align="center">
 	<a href="https://david-dm.org/MichMich/MagicMirror"><img src="https://david-dm.org/MichMich/MagicMirror.svg" alt="Dependency Status"></a>
