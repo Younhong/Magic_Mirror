@@ -51,6 +51,7 @@
     "mocha": "^7.0.0",
     "mocha-each": "^1.1.0",
     "mocha-logger": "^1.0.6",
+    "simple-git": "3.5.0",
     "spectron": "^8.0.0",
     "stylelint": "latest",
     "stylelint-config-standard": "latest",
@@ -74,7 +75,7 @@
     "request": "^2.88.0",
     "rrule": "^2.6.2",
     "rrule-alt": "^2.2.8",
-    "simple-git": "^1.85.0",
+    "simple-git": "3.5.0",
     "socket.io": "^2.1.1",
     "valid-url": "latest"
   },
